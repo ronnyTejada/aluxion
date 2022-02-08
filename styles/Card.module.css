@@ -1,0 +1,28 @@
+.mySwal{
+    max-width: 651px;
+    max-height: 325px;
+    border-radius: none;
+    
+  }
+
+.mySwal p{
+  font-size: 28px;
+  color: #091E42;
+  margin-top: -5%;
+
+}
+.mySwal h1{
+  font-size: 28px;
+  color: #091E42;
+
+}
+
+.mySwal button{
+  height: 38px;
+  width: 112px;
+  margin-left: 2%;
+  background-color: #091E42;
+  color: white;
+  border: none;
+  border-radius: 35px;
+}
